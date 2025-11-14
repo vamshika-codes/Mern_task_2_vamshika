@@ -65,8 +65,8 @@ backend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/trashika112/Mern-task-2.git
-cd Mern-task-2/backend
+git clone https://github.com/vamshika-codes/Mern_task_2_vamshika.git
+cd Mern_task_2_vamshika/backend
 ```
 
 ### 2. Install Backend Dependencies
@@ -117,5 +117,5 @@ npm start
 
 ## **Credits**
 
-This project was **developed by Trashika S Karkera**.
+This project was **developed by VAMSHIKA U DEVADIGA**.
 
